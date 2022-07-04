@@ -2,7 +2,6 @@
 /shelf/
 /workspace.xml
 Thumbs.db*
-lombok.config
 .DS_Store
 HELP.md
 .gradle
